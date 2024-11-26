@@ -10,14 +10,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923444844060"
-global.ownername = "Qasim Ali"
+global.ownernomer = "923046279699"
+global.ownername = "𓆩𝐅 ᥅ α بی ı ı𓆪"
 global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
 global.location = "Pakistan, Karachi, Karachi"
 
-global.ownernumber = '923444844060'  //creator number
-global.ownername = 'Qasim Ali' //owner name
+global.ownernumber = '923046279699'  //creator number
+global.ownername = '𓆩𝐅 ᥅ α بی ı ı𓆪' //owner name
 global.botname = 'XeonBug-V8' //name of the bot
 
 //sticker details
@@ -41,7 +41,7 @@ global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti91 = false //auto block +91 
-global.autoswview = false //auto view status/story
+global.autoswview = 'True'  //auto view status/story
 
 //menu type 
 //v1 is image menu, 
